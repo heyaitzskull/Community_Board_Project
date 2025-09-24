@@ -34,9 +34,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Uploading Untitledvideo-MadewithClipchamp-ezgif.com-video-to-gif-converter.gif…]()
-
-<!-- <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
+<img src='![Untitledvideo-MadewithClipchamp-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/69ab221e-7283-436e-8f63-2dde406100f4)
+' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
